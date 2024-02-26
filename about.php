@@ -7,6 +7,8 @@
 	<title>О нас</title>
 	<link rel="stylesheet" type="text/css" href="css/style.css" />
 </head>
+	<link type="image/x-icon" href="ico/favicon-16x16.png" rel="shortcut icon">
+	<link type="Image/x-icon" href="ico/favicon-16x16.png" rel="icon">
 
 <body>
 
