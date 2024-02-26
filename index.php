@@ -1,7 +1,7 @@
 <?php include 'inc/count.php';?>
 
 <!DOCTYPE HTML>
-<html>
+<html lang="en-us"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">>
 <head>
 	<meta charset="utf-8" />
 	<title>Главная</title>
