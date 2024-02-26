@@ -1,9 +1,9 @@
 <?php include 'inc/count.php';?>
 
 <!DOCTYPE HTML>
-<html lang="en-us"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">>
+<html lang="en-us">
 <head>
-	<meta charset="utf-8" />
+	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
 	<title>Главная</title>
 	<link rel="stylesheet" type="text/css" href="css/style.css" />
 </head>
