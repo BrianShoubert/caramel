@@ -23,5 +23,6 @@
 
 </?php include 'inc/show_stats.php';?>
 
+<img src="img/picture.png" width="480" height="480" alt="PICTURE" align="right" hspace="10" vspace="10">
 </body>
 </html>
