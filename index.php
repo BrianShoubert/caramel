@@ -1,6 +1,6 @@
 <?php include 'inc/count.php';?>
 
-<! DOCTYPE HTML>
+<!DOCTYPE HTML>
 <html>
 <head>
 	<meta charset="utf-8" />
