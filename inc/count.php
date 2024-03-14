@@ -1,4 +1,4 @@
-<?php include 'db.php';
+<?php include '../inc/db.php';
 
 //Указываем кодировку, в которой будет получена информация из базы
 @mysqli_query ($db, 'set character_set_results = "utf8"');
