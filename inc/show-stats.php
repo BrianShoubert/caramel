@@ -10,4 +10,4 @@ $row = mysqli_fetch_assoc($res);
 
 echo '<p>Уникальных пользователей: ' . $row['hosts'] . '<br />';
 echo 'Просмотров: ' . $row['views'] . '</p>';
-?>
+
