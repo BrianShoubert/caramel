@@ -13,10 +13,10 @@
 <body>
 
 <ul id="nav">
-	<li><a href="index.html">Главная</a></li>
-	<li><a href="uslugi.html">Услуги</a></li>
-	<li><a href="contacts.html">Контакты</a></li>
-	<li><a href="about.html">О нас</a></li>
+	<li><a href="index.php">Главная</a></li>
+	<li><a href="uslugi.php">Услуги</a></li>
+	<li><a href="contacts.php">Контакты</a></li>
+	<li><a href="about.php">О нас</a></li>
 </ul>
 
 <h2>Страница "О нас"</h2>
