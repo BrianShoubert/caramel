@@ -1,4 +1,4 @@
-<?php include 'caramel.github.io/inc/db.php';
+<?php include 'db.php';
 
 //Указываем кодировку, в которой будет получена информация из базы
 @mysqli_query ($db, 'set character_set_results = "utf8"');
