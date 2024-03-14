@@ -1,4 +1,4 @@
-<?php
+<?php?>
 
 // Указываем кодировку, в которой будет получена информация из базы
 @mysqli_query ($db, 'set character_set_resylts = "utf8"');
@@ -10,4 +10,4 @@ $row = mysqli_fetch_assoc($res);
 
 echo '<p>Уникальных пользователей: ' . $row['hosts'] . '<br />';
 echo 'Просмотров: ' . $row['views'] . '</p>';
-?> </?php>
+</?php?>
