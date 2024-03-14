@@ -1,4 +1,4 @@
-<?php include '../inc/db.php';
+<?php include 'caramel.github.io/inc/db.php';
 
 //Указываем кодировку, в которой будет получена информация из базы
 @mysqli_query ($db, 'set character_set_results = "utf8"');
@@ -46,4 +46,4 @@ else
 		mysqli_query($db, "UPDATE `visits` SET `hosts`=`hosts`+1, `views`=`views`+1 WHERE `date`='$date'");
 	}
 }
-?>
+
